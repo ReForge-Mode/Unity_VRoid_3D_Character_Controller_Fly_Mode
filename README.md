@@ -33,6 +33,5 @@ Now, to use this character controller to your VRoid project:
 <p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Fly_Mode/blob/main/6.png" width=50% height=50%></p>
 
 7. Move every component from "shadow" to Vita, except for the Animator. For the Animator, just change the Controller field used in Vita to the one that is used by "shadow". The animation will work with the VRM object. You can copy component that you can't move (Rigidbody and Collider) and paste it on Vita.
-<p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Fly_Mode/blob/main/7.png" width=50% height=50%></p>
 
 And that will be it! You can now delete the duplicate of "shadow". Let me know if you guys want a video tutorial instead of a written tutorial. If there's enough request, I'll make the short tutorial for it.
