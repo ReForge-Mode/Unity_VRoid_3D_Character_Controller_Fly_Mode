@@ -8,6 +8,12 @@ Huge credit to these guys who made this possible!
 - Unity Starter Assets - Third Person Character Controller: https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
 - 3rd Person Controller + Fly Mode: https://assetstore.unity.com/packages/templates/systems/3rd-person-controller-fly-mode-28647
 
+<p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/demo.gif" width=100% height=100%></p>
+
+<p align="center">This is my video explaining this tutorial</p>
+
+[![Use These Free Character Controllers for Your Unity Project!)](https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/Video.jpg)](https://youtu.be/XUuuwBTfMAM)
+
 # Instructions
 This 3D controller is a lot easier to implement with VRoid models than the Unity Starter Assets.
 
